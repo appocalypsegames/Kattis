@@ -1,0 +1,16 @@
+main(c,i,j,g,a,b,r){
+    scanf("%i",&c);
+    for(i=0;i<c;i++){
+        scanf("%i",&g);
+        scanf("%i",&a);
+        r=1;
+        for(j=1;j<g;j++){
+           scanf("%i",&b);
+           if(b-1!=a&&r==1){
+               r=j+1;
+           }
+           a=b;
+        }
+        printf("%i\n",r);
+    }
+}
