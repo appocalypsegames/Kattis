@@ -1,0 +1,1 @@
+main(i,e){char s[999];scanf("%s",s);for(i=e=0;i<strlen(s);i++){if(e)printf("%c",s[i]);else if(s[i]=='a'){e=1;printf("%c",s[i]);}}}
