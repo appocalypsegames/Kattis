@@ -1,0 +1,1 @@
+main(a){char s[10];scanf("%i%s",&a,s);puts(a>1?"blandad best":s[0]=='k'?"kjuklingur":"nautakjot");}

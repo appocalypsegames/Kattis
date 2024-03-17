@@ -1,0 +1,1 @@
+main(){char s[999];scanf("%s",s);puts(strstr(s,"COV")?"Veikur!":"Ekki veikur!");}

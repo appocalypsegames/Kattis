@@ -1,0 +1,1 @@
+main(a,b,c,d,e,f){scanf("%i%i%i%i%i%i",&a,&b,&c,&d,&e,&f);printf("%i %i %i %i %i %i",1-a,1-b,2-c,2-d,2-e,8-f);}

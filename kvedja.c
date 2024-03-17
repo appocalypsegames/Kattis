@@ -1,0 +1,1 @@
+main(){char s[99];scanf("%s",s);printf("Kvedja,\n%s",s);}
