@@ -1,0 +1,1 @@
+main(i){char s[999];scanf("%s",s);for(i=strlen(s);i--;)putchar(s[i]);}

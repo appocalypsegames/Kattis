@@ -1,0 +1,1 @@
+main(a,b,c){scanf("%i%i%i",&a,&b,&c);(a<b&a<c)?puts("Monnei"):b<c?puts("Fjee"):puts("Dolladollabilljoll");}

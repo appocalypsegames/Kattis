@@ -1,0 +1,1 @@
+main(a,b){scanf("%i %i",&a,&b);printf("%i",2022+a/b);}

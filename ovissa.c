@@ -1,0 +1,1 @@
+main(){char s[99999];scanf("%s",s);printf("%d",strlen(s));}
