@@ -1,0 +1,1 @@
+main(a,b){scanf("%i%i",&a,&b);puts(a>b?"1":"0");}
