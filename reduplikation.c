@@ -1,0 +1,1 @@
+main(a,i){char s[9];scanf("%s%i",s,&a);for(;a;a--)printf("%s",s);}

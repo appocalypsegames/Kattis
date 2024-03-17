@@ -1,0 +1,1 @@
+main(){char s[20];scanf("%s",s);printf("%c",s[0]);}
